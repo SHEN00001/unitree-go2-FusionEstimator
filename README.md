@@ -1,4 +1,4 @@
-# unitree-go2-FusionEstimator
+# unitree-go2-FusionEstimator in Foxy
 Specific documentation to be refined.
 ## Reference:
 [Fusion Estimator](https://github.com/ShineMinxing/Ros2Go2Estimator)
